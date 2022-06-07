@@ -1,0 +1,27 @@
+id: I1AC9C39F
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-27T21:59:57+00:00'
+last_modified: '2022-06-07T15:11:34.177031+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W3CN542
+  title: ཤེར་ཕྱིན་སྒོམ་རིམ་དང་སྨྱུང་གནས་ཕན་ཡོན།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    F5BC:
+      image_group_id: I3CN3786
+      title: ''
+      total_pages: 338
+      order: 1
+      base_file: F5BC.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
